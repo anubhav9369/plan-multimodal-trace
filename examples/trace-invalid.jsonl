@@ -1,0 +1,5 @@
+{"step_id": "s1", "ts": "2026-11-26T09:00:00Z", "modality": "text", "kind": "fetch", "ref": "logs/fetch.log", "note": "HTTP 200"}
+{"step_id": "s9", "ts": "2026-11-26T09:01:00Z", "modality": "text", "kind": "fetch", "ref": "logs/unknown.log", "note": "Step s9 is not in the plan"}
+{"step_id": "s2", "ts": "2026-11-26T09:02:00Z", "modality": "hologram", "kind": "extract", "ref": "logs/extract.log", "note": "Hologram is not a known modality"}
+{"step_id": "s2", "ts": "2026-11-26T09:01:30Z", "modality": "text", "kind": "extract", "ref": "logs/extract.log", "note": "Timestamp goes backwards"}
+{"step_id": "s3", "ts": "not-a-date", "modality": "text", "kind": "draft", "ref": "logs/draft.log", "note": "Bad timestamp"}
